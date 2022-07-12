@@ -6,6 +6,9 @@
 
 <div>
 	<h2>Profile</h2>
-	<p>Gabriel Ferrari Tarallo Ferraz is a FullStack Software Engineer, based in São Paulo Brazil.</P>
-	<p>Graduated from the University of São Paulo - USP. Bachelor in Information Systems.</p>
+	<p>
+		<strong>Gabriel Ferrari Tarallo Ferraz</strong> is a FullStack Software Engineer, based in São Paulo Brazil.<br/>
+		Graduated by University of São Paulo - USP. Bachelor in Information Systems.
+	</p>
+	<p>He is a passionated software engineer, in love by software architecture and design patterns.</p>
 </div>
