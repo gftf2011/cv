@@ -15,3 +15,10 @@
 He has experience in designing highly testable Node.JS APIs, following the Clean Architecture principles, and designing <i>Pixel Perfect</i> Screens for Web Apps and Mobile devices.
 	</p>
 </div>
+
+<hr/>
+
+<div>
+	<h2>Education</h2>
+	<p>Universidade de São Paulo (USP), São Paulo Brazil — Information Systems, Graduated, 01/2016 - 08/2021.</p>
+</div>
