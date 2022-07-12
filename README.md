@@ -11,6 +11,7 @@
 		Graduated by University of São Paulo - USP. Bachelor in Information Systems.
 	</p>
 	<p>
-		He is an adaptative, independent, fast learner, proactive, passionated software engineer, in love by software architecture and design patterns, that has worked most of his time with Node.JS, React.JS and React-Native technologies.
+		He is an adaptative, independent, fast learner, proactive, passionated software engineer, in love by software architecture and design patterns, that has worked most of his time with Node.JS, React.JS and React-Native technologies.<br/>
+He has experience in designing highly testable Node.JS APIs, following the Clean Architecture principles, and designing <i>Pixel Perfect</i> Screens for Web Apps and Mobile devices.
 	</p>
 </div>
