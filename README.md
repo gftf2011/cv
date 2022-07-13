@@ -50,6 +50,14 @@ He has experience in designing highly testable Node.JS APIs, following the Clean
 	<p>
 		Contributed with maintenance and creation of Zellar RH`s Human Resource ERP tool by starting with the usage of B.D.D. - (Behavior Driven Development) - in the company by detecting existing bugs and approaching tecnology department with product team.
 	</p>
+	
+	<h4>
+		<strong>Software Engineer Intern | Itaú Unibanco <> 07/2018 - 07/2019</strong>
+	</h4>
+
+	<p>
+	Contributed in "Itaú: Cartões de crédito" Android Mobile App, one of the biggest credit card apps in Brazil, by increasing the unit test coverage to validate business rules that may be broken in the past. Helped to make the Android Credit Card Mobile App accessible to visually impaired customers, this was a "legal demand" requested by BACEN - (Banco Central do Brasil) - the central institution which regulates all financial institutions in the country.
+	</p>
 </div>
 
 <hr/>
