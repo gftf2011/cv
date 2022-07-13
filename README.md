@@ -43,6 +43,13 @@ He has experience in designing highly testable Node.JS APIs, following the Clean
 	<p>
 		I taught the first members from the mobile department internship program, doing the onboard until the application clients journey. Until now my GREATEST achievement 🥰
 	</p>
+			
+	<h4>
+		<strong>FullStack Software Engineer | Zellar RH <> 07/2019 - 01/2020</strong>
+	</h4>
+	<p>
+		Contributed with maintenance and creation of Zellar RH`s Human Resource ERP tool by starting with the usage of B.D.D. - (Behavior Driven Development) - in the company by detecting existing bugs and approaching tecnology department with product team.
+	</p>
 </div>
 
 <hr/>
