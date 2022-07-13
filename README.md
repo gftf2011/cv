@@ -19,6 +19,20 @@ He has experience in designing highly testable Node.JS APIs, following the Clean
 <hr/>
 
 <div>
+	<h2>Experience</h2>
+	<h4>Senior FullStack Software Engineer | Midway Banking <> 06/2021 - present</h4>
+	<p>
+		Contributed with Riachuelo`s Web E-commerce platform with 30kk+ registered users.<br/>
+		Rachuelo is one of the biggest fashion retailers in Brazil. Midway as the private financial institution, responsible for Riachuelo`s credit card transactions, gives security support for the fashion retail.
+	</p>
+	<p>
+		Implemented Recaptcha Enterprise in Riachuelo`s E-commerce in checkout flow to identify possible credit card testing automations.
+	</p>
+</div>
+
+<hr/>
+
+<div>
 	<h2>Education</h2>
 	<p>Universidade de São Paulo (USP), São Paulo Brazil — Information Systems, Graduated, 01/2016 - 08/2021.</p>
 </div>
