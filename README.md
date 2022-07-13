@@ -38,9 +38,7 @@ He has experience in designing highly testable Node.JS APIs, following the Clean
 		<strong>FullStack Software Engineer | RaiaDrogasil - RD <> 01/2020 - 07/2021</strong>
 	</h4>
 	<p>
-		Contributed to - RaiaDrogasil - RD`s Mobile Platform with 2kk+ registered users (Android & iOS). RD is the biggest drug retailer in Brazil, where they display several products for costumers and business partners.<br/>
-		Implemented, maintained and recreated pages and behaviors from different mobile products of the company.<br/>
-		Took part as one of the core team engineer members at RD, and helped in the software migration from the monolithic core API to micro services usage.
+		Contributed to - RaiaDrogasil - RD`s Mobile Platform with 2kk+ registered users (Android & iOS). RD is the biggest drug retailer in Brazil, where they display several products for costumers and business partners. Implemented, maintained and recreated pages and behaviors from different mobile products of the company. Took part as one of the core team engineer members at RD, and helped in the software migration from the monolithic core API to micro services usage.
 	</p>
 	<p>
 		I taught the first members from the mobile department internship program, doing the onboard until the application clients journey. Until now my GREATEST achievement 🥰
